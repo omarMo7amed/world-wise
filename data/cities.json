@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "4905",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-03T11:25:17.041Z",
+      "notes": "Omarnlasg",
+      "position": {
+        "lat": "39.98158542392248",
+        "lng": "-0.028495788574218753"
+      }
+    },
+    {
+      "id": "b3a2",
+      "cityName": "Alcublas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-03T11:25:56.310Z",
+      "notes": "",
+      "position": {
+        "lat": "39.825475899271034",
+        "lng": "-0.7031310768157506"
+      }
+    },
+    {
+      "id": "62ab",
+      "cityName": "Al Qanaţir al Khayriyah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-07-07T09:46:33.413Z",
+      "notes": "its my home",
+      "position": {
+        "lat": "30.186237941597373",
+        "lng": "31.16929650306702"
+      }
+    }
+  ]
+}
