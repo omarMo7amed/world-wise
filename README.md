@@ -40,7 +40,7 @@ Here are some screenshots of the World Wise application:
 ![Home Page](screenshots/home.png)
 
 *Login Page*
-![Login Page]screenshots/login.png)
+![Login Page](screenshots/login.png)
 
 *City Details*
 ![City Details](screenshots/city-details.png)
